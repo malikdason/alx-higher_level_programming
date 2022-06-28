@@ -1,6 +1,6 @@
 /*
  * File: 13-insert_number.c
- * Author: Yovo Koffi Vianney
+ * Author: MD
  */
 
 #include "lists.h"
